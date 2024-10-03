@@ -46,7 +46,7 @@ function verificarLetraA(str) {
 }
 
 // Exemplo de uso:
-let texto = prompt("Digite ulguma palavra: ");
+let texto = prompt("Digite alguma palavra: ");
 alert(verificarLetraA(texto));
 
 // exercicio 03
